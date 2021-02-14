@@ -4,7 +4,7 @@
 - 2020/2021
 - Dominik Svoboda, Marek Tyl, Ondřej Vlášek
 
-##představení
+## představení
 - rezervační systém pro kina 
 - vyberete jsi kino, dále představení a sedadlo
 - vše bude mít samostatnou obrazovku
