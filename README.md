@@ -1,1 +1,1 @@
-# rezervační_systém
+# rezervační systém
