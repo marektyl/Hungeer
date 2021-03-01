@@ -1,5 +1,6 @@
 | Uživatel       |  Admin    |
 | :---:        |    :----:   | 
+|  Nakupní košík    | Nastavení nákupního košíku   | 
 | Slevy | TO SAMÉ s nastavením   |
 | Kupóny |    TO SAMÉ s nastavením  | 
 | Polévky    |  TO SAMÉ s nastavením     |
