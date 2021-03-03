@@ -5,8 +5,10 @@
 - Dominik Svoboda, Marek Tyl, Ondřej Vlášek
 
 ## představení
-- rezervační systém pro kina 
-- vyberete si kino, dále představení a sedadlo
-- vše bude mít samostatnou obrazovku
-- v poslední řadě zadáte jméno, příjmení a email
-- pak Vám dojde ověřovací email s potrvzením rezervace a kodém ke zrušení rezervace
+- objednávací aplikace na jídlo
+- vyberete si jídlo, na stránce budou také slevy a kupóny
+- poté přejtede do košíku, zadáte jméno, příjmení, adresu a pak vyskoči potvrzení objednávky
+- přijde vám email o potvrzení objednávky, a seznam objednaných produktů
+- cílová skunina: lidi co mají hlad
+- 
+- 
