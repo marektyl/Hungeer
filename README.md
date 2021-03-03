@@ -10,5 +10,3 @@
 - poté přejtede do košíku, zadáte jméno, příjmení, adresu a pak vyskoči potvrzení objednávky
 - přijde vám email o potvrzení objednávky, a seznam objednaných produktů
 - cílová skunina: lidi co mají hlad
-- 
-- 
