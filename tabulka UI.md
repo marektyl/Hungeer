@@ -1,7 +1,7 @@
 |       |  Petr Pinkman   | Anička Zálešáková|
 | :---:        |    :----:   |  :----:   |
-|  VĚK  | Nastavení nákupního košíku   | 
-| POVOLÁNÍ | TO SAMÉ s nastavením   |
-| ÚROVEŇ VAŘENÍ |    TO SAMÉ s nastavením  | 
-| DIETA |  TO SAMÉ s nastavením     |
-| ZRUČNOST S TELEFONY   |  TO SAMÉ  s nastavením   |
+|  VĚK  | 22   |  35   |
+| POVOLÁNÍ | podnikatel  |   mateřská dovolená|
+| ÚROVEŇ VAŘENÍ |   umí si ohřát jídlo a připravit jídlo z pytlíku |  zručná kuchařka  |
+| DIETA |  žádná    |  veganka |
+| ZRUČNOST S TELEFONY   |  telefonový magič   |  průměrný dospělý uživatel (nic moc)   |
