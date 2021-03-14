@@ -1,5 +1,5 @@
-| Uživatel       |  Admin    |
-| :---:        |    :----:   | 
+|       |  Petˇa    | Anička|
+| :---:        |    :----:   |  :----:   |
 |  Nakupní košík    | Nastavení nákupního košíku   | 
 | Slevy | TO SAMÉ s nastavením   |
 | Kupóny |    TO SAMÉ s nastavením  | 
