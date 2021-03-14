@@ -4,4 +4,4 @@
 | POVOLÁNÍ | podnikatel  |   mateřská dovolená|
 | ÚROVEŇ VAŘENÍ |   umí si ohřát jídlo a připravit jídlo z pytlíku |  zručná kuchařka  |
 | DIETA |  žádná    |  veganka |
-| ZRUČNOST S TELEFONY   |  telefonový magič   |  průměrný dospělý uživatel (nic moc)   |
+| ZRUČNOST S TELEFONY   |  telefonový magič a milovník techniky  |  průměrný dospělý uživatel (nic moc)   |
