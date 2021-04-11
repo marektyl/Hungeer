@@ -14,4 +14,4 @@
 ## Odkazy
 [Wireframe](https://github.com/marektyl/Hungeer/blob/main/Popis%20wirefram%C5%AF.png)
 <br/><br/>
-[Persony a scénáře](https://github.com/marektyl/Hungeer/blob/main/Popis%20wirefram%C5%AF.png)
+[Persony a scénáře](https://github.com/marektyl/Hungeer/blob/main/tabulka%20UI.md)
