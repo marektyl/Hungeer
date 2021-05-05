@@ -19,6 +19,6 @@
 -Databáze skrze Firebase od Google
 
 ## Odkazy
-[Wireframe](https://github.com/marektyl/Hungeer/blob/main/Popis%20wirefram%C5%AF.png)
+[Wireframe](https://github.com/marektyl/Hungeer/blob/main/Wireframe1.png)
 <br/><br/>
 [Persony a scénáře](https://github.com/marektyl/Hungeer/blob/main/tabulka%20UI.md)
