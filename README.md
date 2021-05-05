@@ -5,9 +5,9 @@
 - Dominik Svoboda, Marek Tyl, Ondřej Vlášek
 
 ## Představení
-- bude se jednat o mobilní aplikaci, kde si budete moci objednat jídlo až k sobě domů!
+- bude se jednat o mobilní aplikaci, kde si budete moci objednat jídlo až k sobě domů! Dostupná na Android i iOS.
 
-## Jak to funguje? :O
+## Jak aplikace funguje? :O
 - vyberete si jídlo, které bude tříděno do různých kategorií, po dokončení výběru přejdete do košíku, zadáte jméno, příjmení, adresu, telefonní číslo a po potvrzení vyskoči shrnutí objednávky a čekáte na dovoz.
 - následně Vám přijde email o potvrzení objednávky a s ním i shrnutí (objednané produkty + cena)
 - v aplikaci budou také slevové kupóny.
