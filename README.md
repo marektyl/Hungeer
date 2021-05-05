@@ -24,4 +24,4 @@
 ## Odkazy
 [Wireframe](https://github.com/marektyl/Hungeer/blob/main/Wireframe1.png)
 <br/><br/>
-[Persony a scénáře](https://github.com/marektyl/Hungeer/blob/main/tabulka%20UI.md)
+[Persony a scénáře](https://github.com/marektyl/Hungeer/blob/main/Persony&Scenare.md)
