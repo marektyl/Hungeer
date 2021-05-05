@@ -13,6 +13,9 @@
 - v aplikaci budou také slevové kupóny.
 - cílová skunina: Aplikace je určená pro všechny lidi s mobilním telefonem jakéhokoliv věku schopného s ním zacházet, kteří si chtějí objednat jídlo z restaurace na dovoz.(čistě teoreticky mají lidé platební kartu zhruba od patnácti let, tudíž věkové rozmezí je 15-99+)
 
+## Zadávání jídel
+-Nové nabízené produkty budou přidávány do databáze skrze formulář.
+
 ## Tvorba
 -Aplikace je programována v jazyce C# a XAML
 -Vývojové studio Visual Studio C# + framework Xamarin.Forms
